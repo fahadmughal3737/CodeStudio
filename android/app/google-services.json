@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281870587866",
+    "project_id": "codestudio-cc226",
+    "storage_bucket": "codestudio-cc226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281870587866:android:12a2fb721ecc4cd3ca52e3",
+        "android_client_info": {
+          "package_name": "com.codestudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281870587866-rbbfabl4e73f1di268sa7mpujac3hasl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyTxQLQfoQKuZ44vszSa010ia63Wo-dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281870587866-rbbfabl4e73f1di268sa7mpujac3hasl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
